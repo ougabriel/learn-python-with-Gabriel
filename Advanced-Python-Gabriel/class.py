@@ -1,4 +1,4 @@
-## init()
+## init()   the init() explained
 ## The __init__() function, is a special function that is called when the class is being initiated. It's used for assigning values in a class.
 class NumberHolder:
 
